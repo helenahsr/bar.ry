@@ -1,6 +1,6 @@
 # BAR.RY
 
-Primeiro projeto com Next.JS.
+Primeiro projeto com Next.JS. Barry é minha calopsita...
 
 ## Rodar o Projeto
 
